@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ankit srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit srivastava" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankit-srivastava-68b625136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit srivastava" height="30" width="40" /></a>
 <a href="https://instagram.com/demon_slayer7_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="demon_slayer7_7" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/coolsrivankit97/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="coolsrivankit97/profile" height="30" width="40" /></a>
 </p>
